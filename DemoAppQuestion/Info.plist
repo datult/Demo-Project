@@ -21,5 +21,12 @@
 			</array>
 		</dict>
 	</dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Nunito-Italic.ttf</string>
+		<string>Baloo2-Medium.ttf</string>
+		<string>Baloo2-Bold.ttf</string>
+		<string>Baloo2-SemiBold.ttf</string>
+	</array>
 </dict>
 </plist>
